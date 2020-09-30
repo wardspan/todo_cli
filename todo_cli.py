@@ -11,6 +11,7 @@ import os
 import cotter
 import requests
 
+# will want to add code to obscure this going forward
 cotter_api_key = "d6d04d1c-5c54-4866-8483-ba8b531507d6"
 
 
